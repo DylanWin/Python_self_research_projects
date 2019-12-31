@@ -1,4 +1,4 @@
-# Python_self_research_projects
+# Python_self_research_projects (Project 1)
 
 Motive of this project is to :
 
